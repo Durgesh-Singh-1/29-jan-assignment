@@ -1,0 +1,64 @@
+1. who developed python Programming Language?
+ans:- Guido van ROssum.
+
+2. which type of Prograimming does python support?
+ans:- Object-Oriented Programming and Structure Programming.
+
+3.Is Python case sensitive when dealing with identifiers?
+ans:-  yes 
+
+4. what is the correct extension of the python file?
+ans:- .py
+
+5. Is Python code compiled or interpreted?
+ans:- Python is Interpreted language.
+
+6. Name a few blocks of code used to define in python language?
+ans:- Indentation.
+
+7. state a charactor used to give single-line comments in python?
+ans:- ##.
+
+8. Mention function which can help us to find the version of python that are currently working on?
+ans:- sys.verson.
+
+9. Python supports the creation of anonymous functions at runtime, using a construct called......
+ans:- lambda.
+
+10. what does pip stand for python?
+ans:- Preferred Installer Program.
+
+11. Mention a few bult-in functions in python?
+ans:- print()
+	type()
+	inpute()
+	max()
+	pow()
+
+12. what is the maximum possible lenght of an identifier in python? 
+ans:- 79 
+
+13. what are the benefits of using pythin?
+ans:- data science 
+	web development 
+	computer grapics 
+	game development
+	etc.
+ 
+14. how is memory managed in python?
+ans:- Python private heap space.
+
+15. how to install Python on windows and set path variables?
+ans:- Install python from this link:-
+	https://www.python.org/downloads/
+	aftar this, install it on your PC. 
+	look for the loction where Python has been installed on your PC using folloeing command :-
+	prompt: cmd python.
+	Then go to the advanced System setting and add new variable and  name 
+	it as PYTHON_NAME and paste the copied path.
+	then loolk for the paath variable, select it's value and select edit 
+	add a semicolon towards the end of the value if it's not present and then 
+	type %PYTHON_HOME%
+ 
+16. Is indentation required in Python?
+ans:- A-z, a-z, 0-9, -, 
